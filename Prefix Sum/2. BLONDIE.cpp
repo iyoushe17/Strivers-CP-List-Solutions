@@ -1,6 +1,7 @@
+// QUESTION LINK: https://www.codechef.com/problems/BLONDIE
+
 #include<bits/stdc++.h>
 using namespace std;
-// int array input of size N
 #define takeIntArray(vec, size) { for (int i = 0; i < size; i++) cin >> vec[i]; };
 #define LOOP(i, start, end)  for(int i = start; i < end; i++)
 
